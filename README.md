@@ -1,7 +1,9 @@
 # Bikesharing
-Predication of bike rental count hourly based on the environmental and seasonal settings.
 
 Rental bikes are increasingly being introduced in urban cities to enhance mobility and provide greater convenience. Ensuring these bikes are available and accessible to the public at the right time is essential, as it reduces waiting times and improves user satisfaction. Maintaining a stable supply of rental bikes across the city is a significant challenge, with the most critical aspect being the accurate prediction of bike demand at different hours. My goal is to develop a highly accurate model with minimal error that not only forecasts bike demand but also provides insights into the key factors influencing usage. These insights will enable bike-sharing companies to make data-driven decisions and optimize their operations effectively.
+
+
+# Objective:Predication of bike rental count hourly based on the environmental and seasonal settings.
 
 # Source: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 
